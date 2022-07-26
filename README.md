@@ -35,3 +35,23 @@ THEN the saved events persist
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/102045473/181022667-be7b9c10-eeeb-4c70-bbd7-4e73d40543de.png)
 
+Click the lightning bolt [⚡](https://cykj40.github.io/workday-scheduler/) to check out my workday scheduler in action.
+
+## Build
+I was given partial starter code for my HTML. I had to create the rows and time slots.
+I was given the css. 
+I used jquery to dynamically change the html. The page now continuosly 
+updates the time and date so that it can properly keep track of your tasks. 
+I used Font awesome for special icons (fa-save).
+
+## Resources 
+website by James Fisher [click](https://www.james-fisher-web-developer.com/pages/workday-scheduler.html)
+
+
+w3schools 
+
+
+jquery website [click](https://jquery.com/)
+
+MDN
+
