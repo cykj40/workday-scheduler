@@ -4,7 +4,7 @@
 ```md
 I have created a workday scheduler that allows users to save tasks by the hour. 
 My application will run in the browser and it features continously updating 
-html bootstrap css, css, fontawesome and jquery.
+html. I also used bootstrap css, css, fontawesome and jquery.
 ```
 
 ## User Story
